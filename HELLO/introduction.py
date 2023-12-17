@@ -24,7 +24,17 @@ print(type(name));
 # print(f' {greeting1} {greeting2} Mayer')
 """
 
-name = 'Bastian'
+""" name = 'Bastian'
 name = 23
 
-print(type(name));
+print(type(name)); """
+
+""" name = "Lucas"
+name = True
+
+print(name) """
+
+var_name = "Snake case"
+Var_Name = "Pascal case"
+var_name = "camel case"
+varName = "camel case"
