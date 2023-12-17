@@ -47,3 +47,8 @@ as         def        from       nonlocal   while
 assert     del        global     not        with
 async      elif       if         or         yield) """
 
+name = 'Gohit'
+lasName = 'Bastian'
+
+print( name + " " +lasName);
+print(f"My name is: {name} {lasName}")
