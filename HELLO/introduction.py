@@ -17,4 +17,9 @@ print(number1, number2, number3 ); """
 
 greeting1, greeting2 = 'Hello', 'World'
 
-print(f' {greeting1} {greeting2} Mayer')
+name = 'Bastian'
+
+print(type(name));
+
+# print(f' {greeting1} {greeting2} Mayer')
+
