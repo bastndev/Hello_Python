@@ -47,8 +47,15 @@ as         def        from       nonlocal   while
 assert     del        global     not        with
 async      elif       if         or         yield) """
 
-name = 'Gohit'
+""" name = 'Gohit'
 lasName = 'Bastian'
 
 print( name + " " +lasName);
-print(f"My name is: {name} {lasName}")
+print(f"My name is: {name} {lasName}") """
+
+name = input("What is your name: ")
+if name == 'Gohit':
+    print("Hello Gohit")
+else:
+    print(f"Hello {name}")
+
