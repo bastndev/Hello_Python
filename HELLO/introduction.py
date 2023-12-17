@@ -4,5 +4,8 @@ name = ' Lucas'
 hello = greet +  name;
 print(hello); """
 
+""" number1 = 300
+number1 = 300
+number1 = 300
 
-name = 'Ser Gustave'
+print(number1); """
