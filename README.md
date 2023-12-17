@@ -1,4 +1,4 @@
-## 本地git仓库上传到github账户操作
+## Operations for uploading a Git repository to a GitHub account on 地.
     zhanghe@ubuntu:~/code/python$ ssh-keygen -t rsa -C "zhang_he06@163.com"
     Generating public/private rsa key pair.
     Enter file in which to save the key (/home/zhanghe/.ssh/id_rsa):
@@ -42,7 +42,7 @@
       remotes/origin/master
 
 
-## 程序所需依赖
+## Dependencies required by the program.
     进入虚拟环境
     zhanghe@ubuntu:~/code/python$ source pyenv/bin/activate
     
@@ -68,7 +68,7 @@
     (pyenv)zhanghe@ubuntu:~/code/python$ pip freeze > requirements.txt
 
 
-## 测试环境部署
+## Deployment of the testing environment.
     建立 虚拟环境
     virtualenv pyenv
 
