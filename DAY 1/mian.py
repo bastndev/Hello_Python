@@ -15,5 +15,9 @@ print('Hello' "+" 'My friend!')
 
 # print(len(input("Tell my your name: ")))
 
+""" name = input("What is your name? ")
+print(name) """
+
 name = input("What is your name? ")
-print(name)
+length = len(name)
+print(f"Lucas have: {length} characters")
