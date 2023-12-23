@@ -1,3 +1,2 @@
 print("Hello, world!")
-print("awa")
-print("Hello, world122!")
+print("print('Hello, world11')")
