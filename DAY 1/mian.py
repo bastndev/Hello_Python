@@ -1,2 +1,3 @@
 print("Hello, world!")
-print("print('Hello, world11')")
+print("print('Hello,\n Welcome 2024')")
+print("Hello \nMr. Lucas")
