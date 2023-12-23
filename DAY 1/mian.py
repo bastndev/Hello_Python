@@ -7,4 +7,8 @@ print("Hello" + " " + "world!")
 
 print('Hello' "+" 'My friend!')
 """
-print("Hello " + input("What is your name? "))
+# print("Hi " + input("What is your name?"))
+
+# print("You have " + input("What is your age?"))
+
+print("You have " + input("What is your age?") + " years old")
