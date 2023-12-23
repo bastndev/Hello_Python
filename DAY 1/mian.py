@@ -18,6 +18,6 @@ print('Hello' "+" 'My friend!')
 """ name = input("What is your name? ")
 print(name) """
 
-name = input("What is your name? ")
+""" name = input("What is your name? ")
 length = len(name)
-print(f"Lucas have: {length} characters")
+print(f"Lucas have: {length} characters") """
