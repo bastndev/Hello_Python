@@ -11,4 +11,6 @@ print('Hello' "+" 'My friend!')
 
 # print("You have " + input("What is your age?"))
 
-print("You have " + input("What is your age?") + " years old")
+# print("You have " + input("What is your age?") + " years old")
+
+print(len(input("Tell my your name: ")))
