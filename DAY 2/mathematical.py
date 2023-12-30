@@ -25,5 +25,15 @@
 # print(3 / 3 + 3 * 3 - 3)
 # print(3 * (3 + 3) / 3 - 3)
 
-height = 1.70
+""" height = 1.70
 weight = 80
+
+BMI = weight / (height * height)
+print(f"you BMI is: {BMI}") """
+
+
+height = 1.58
+weight = 57
+
+BMI = int(weight / (height * height))
+print(f"you BMI is: {BMI}")
