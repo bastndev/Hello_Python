@@ -38,8 +38,27 @@ weight = 57
 BMI = int(weight / (height * height))
 print(f"you BMI is: {BMI}") """
 
-height = 1.70
+""" height = 1.70
 weight = 80
 
 BMI = int(weight / (height * height))
-print(f"you BMI is: {BMI}")
+print(f"you BMI is: {BMI}") """
+
+""" height = 1.63
+weight = 69
+
+BMI = int(weight / (height * height))
+print(f"you BMI is: {BMI}") """
+
+# Teacher
+height = input("Enter your height: ")
+weight = input("Enter your weight: ")
+
+weightInt = int(weight)
+heightFloat = float(height)
+
+bmi = weightInt / heightFloat ** 2
+bmi = weightInt / (heightFloat * heightFloat)
+
+bmi_int = int(bmi)
+print(bmi_int)
