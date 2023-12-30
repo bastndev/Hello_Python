@@ -27,3 +27,13 @@ number2 = int(number[1])
 
 result = (number1 + number2)
 print(f"The result is: {result}") """
+
+# Teacher
+
+twoNumbers = input("Enter Number pls: ")
+
+firstNumber = int(twoNumbers[0])
+secondNumber = int(twoNumbers[1])
+
+result = firstNumber + secondNumber
+print(f"The number result is: {result}")
