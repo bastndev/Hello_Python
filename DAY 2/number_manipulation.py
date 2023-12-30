@@ -18,9 +18,16 @@ print(4 // 2) #convert to int  """
 result /= 2
 print(int(result)) """
 
-score = 0
+""" score = 0
 
-# user Score |  score = score + 1 |resume ↓
+# user Score |  score = score + 1 |resume ↓ use * - / + etc TODO:
 
 score += 1
-print(score)
+print(score) """
+
+score = 0
+height = 1.70
+isWinning = True
+
+# use f for interpolate
+print(f"Your score is:{score} and you height {height:.2f}, and you winning? {isWinning}")
