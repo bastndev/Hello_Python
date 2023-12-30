@@ -9,4 +9,7 @@ print(formatted_result) """
 """ print(round(8 / 3, 2))
 print(round(8 / 3, 3)) """
 
-print(round(2.222222222222, 2))
+# print(round(2.222222222222, 2))
+""" 
+print(4 / 2)
+print(4 // 2) #convert to int  """
