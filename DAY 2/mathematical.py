@@ -32,8 +32,14 @@ BMI = weight / (height * height)
 print(f"you BMI is: {BMI}") """
 
 
-height = 1.58
+""" height = 1.58
 weight = 57
+
+BMI = int(weight / (height * height))
+print(f"you BMI is: {BMI}") """
+
+height = 1.70
+weight = 80
 
 BMI = int(weight / (height * height))
 print(f"you BMI is: {BMI}")
