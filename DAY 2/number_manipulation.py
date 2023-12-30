@@ -13,3 +13,7 @@ print(round(8 / 3, 3)) """
 """ 
 print(4 / 2)
 print(4 // 2) #convert to int  """
+
+result = 4 / 2
+result /= 2
+print(int(result))
