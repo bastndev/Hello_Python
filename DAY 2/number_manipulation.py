@@ -14,6 +14,13 @@ print(round(8 / 3, 3)) """
 print(4 / 2)
 print(4 // 2) #convert to int  """
 
-result = 4 / 2
+""" result = 4 / 2
 result /= 2
-print(int(result))
+print(int(result)) """
+
+score = 0
+
+# user Score |  score = score + 1 |resume ↓
+
+score += 1
+print(score)
