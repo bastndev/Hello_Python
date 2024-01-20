@@ -1,8 +1,4 @@
-## Operations for uploading a Git repository to a GitHub account on 地.
-    
-
-
-## Sub-database and sub-table
+## Chess ♟️
 Usually the modulo is taken according to the primary key. In order to facilitate expansion, the modulo is taken here for even numbers.
 
   ⬛  ⬛  ⬛  ⬛
@@ -63,14 +59,14 @@ MariaDB [(none)]>
 ```
 
 
-## strace 调试跟踪
+## Strace
 
 ```
 strace -p [pid] -tt -s 1024 -o /tmp/[pid].log
 ```
 
 
-## 理解 tuple (元祖)
+##  Tuple (元祖)
 
 为什么当tuple只有一个item时，需要加逗号
 
@@ -89,20 +85,3 @@ Out[3]: str
 In [4]: type(('fuck',))
 Out[4]: tuple
 ```
-
-Not the parentheses make the tuple, the commas do.
-
-
-## 文档托管
-
-Read the Docs
-
-创建、托管和浏览文档。
-
-[https://readthedocs.org/](https://readthedocs.org/)
-
-## TODO
-
-多线程
-
-队列
