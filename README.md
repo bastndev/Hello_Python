@@ -1,7 +1,7 @@
 <h1 align="center">Hello Python 🐍 </h1>
 
 ## Chess ♟️
->- Usually the modulo is taken according to the primary key. In order to facilitate expansion, the modulo is taken here for even numbers.
+> Usually the modulo is taken according to the primary key. In order to facilitate expansion, the modulo is taken here for even numbers.
 
   ⬛  ⬛  ⬛  ⬛
 ⬛  ⬛  ⬛  ⬛  
