@@ -1,8 +1,6 @@
-<p align="center">
+<h1 align="center">Hello Python 🐍 </h1>
 
-  ## Chess ♟️
-</p>
-
+## Chess ♟️
 >- Usually the modulo is taken according to the primary key. In order to facilitate expansion, the modulo is taken here for even numbers.
 
   ⬛  ⬛  ⬛  ⬛
@@ -70,9 +68,9 @@ strace -p [pid] -tt -s 1024 -o /tmp/[pid].log
 ```
 
 
-##  Tuple (元祖)
+##  Tuple
 
-为什么当tuple只有一个item时，需要加逗号
+Why do we need to add a comma when the tuple has only one item?
 
 ```
 In [1]: (3+4)*5
